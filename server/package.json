@@ -4,7 +4,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "nodemon --ext js,graphql --ignore data/ server.js",
+    "start": "nodemon --ext js --ignore data/ src/index.js",
     "dev": "nodemon --ext js --ignore data/ src/index.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
