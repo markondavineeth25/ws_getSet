@@ -32,3 +32,9 @@ It can be directly lifted and put to PROD Dynamo db.
 Both table are joined by userId.
 Hence retrieving schedule for a given user is very easy. 
 ```
+
+## Seperation of Concerns  
+
+Clear demarcation of controller and service layers is implemented.
+
+If business processing on data is required, then service layer can be used for that and a new repository layer can be added in future where we should be able to move DB related logic.
