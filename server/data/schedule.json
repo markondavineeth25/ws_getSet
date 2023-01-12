@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wvdB54Gqbdp_NZTXK9Tue",
+    "userId": "123456",
+    "day": "Monday",
+    "availability": "2"
+  },
+  {
+    "id": "i0Nn6qvicHP5DTuKTyaq0",
+    "userId": "123456",
+    "day": "Tuesday",
+    "availability": "8"
+  },
+  {
+    "id": "i0Nn6qvicHP5DTuKTyas0",
+    "userId": "123456",
+    "day": "Wednesday",
+    "availability": "4"
+  },
+  {
+    "id": "i0Nn6qvicHP5DTuKTyat0",
+    "userId": "123456",
+    "day": "Thursday",
+    "availability": "6"
+  },
+  {
+    "id": "i0Nn6qvicHP5DTuKTyau0",
+    "userId": "123456",
+    "day": "Friday",
+    "availability": "2"
+  }
+]
